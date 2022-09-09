@@ -78,7 +78,7 @@ public class about extends javax.swing.JFrame {
         jTextArea2.setColumns(20);
         jTextArea2.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jTextArea2.setRows(5);
-        jTextArea2.setText("\nThe Pet Vaccine Monitoring System is a \nsoftware application that allows owners who \nhave signed up for the service to keep \ntrack of their pets' vaccination status.\nAnd also they will be notified when the\n vaccination due is within the next 20 days.\nOwner can also get the details of the \nvetcenter and the vaccines provided by \nthe centre. \n\n\n");
+        jTextArea2.setText("\nThe Pet Vaccine Monitoring System is a \nsoftware application that allows owners who \nhave signed up for the service to keep \ntrack of their pets vaccination status.\nAnd also they will be notified when the\n vaccination due is within the next 20 days.\nOwner can also get the details of the \nvetcenter and the vaccines provided by \nthe centre. \n\n\n");
         jScrollPane2.setViewportView(jTextArea2);
 
         getContentPane().add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 140, 320, 390));
